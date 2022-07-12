@@ -1,6 +1,6 @@
 # Web scrapping - Phone Finder
 
-Program for finding the main contact number on a given company website.
+Python program for finding the main contact number on a given company website using bs4, requests and phonenumbers libraries.
 
 Example:
 ```
